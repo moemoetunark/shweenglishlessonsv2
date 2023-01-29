@@ -1,0 +1,2 @@
+rootProject.name='Shwe English Lessons'
+include ':app'

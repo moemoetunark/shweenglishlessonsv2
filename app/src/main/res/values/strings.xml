@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shwe English Lessons</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_privacy1">Privacy Policy</string>
+    <string name="menu_exit">Exit App</string>
+    <string name="rating">Rate App</string>
+    <string name="navigation_drawer_open">Nav Open</string>
+    <string name="navigation_drawer_close">Nav Close</string>
+    <string name="download">အင်္ဂလိပ်စာအုပ်များ download ယူရန် ဒီနေရာကိုနှိပ်ပါ</string>
+
+    <string name="fav_add">Favorite added</string>
+    <string name="fav_remove">Favorite removed</string>
+    <!--These are all test app ID and AdUnit IDS -->
+    <string name="admob_app_id">ca-app-pub-4137439985376631~4759465300</string>
+    <string name="banner_2021">ca-app-pub-4137439985376631/6236198507</string>
+    <string name="interstial_2021">ca-app-pub-4137439985376631/7532985951</string>
+    <string name="inter_goback">ca-app-pub-4137439985376631/2194224906</string>
+    <string name="online_lesson">Online Lessons</string>
+    <string name="reload">Reload</string>
+
+</resources>
